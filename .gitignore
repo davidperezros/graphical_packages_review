@@ -1,4 +1,8 @@
-.Rproj.user
+#Estos ficheros no se cargarán a .github
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user
+*.Rproj
+_bookdown_files/
+01-intro.Rmd
+02-references.Rmd

@@ -1,0 +1,14 @@
+p.caption {
+  color: #776;
+  margin-top: 9px;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+p code {
+  white-space: inherit;
+}
