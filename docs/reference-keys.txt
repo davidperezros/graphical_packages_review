@@ -1,0 +1,16 @@
+eq:binom
+thm:tri
+introducción
+ggplot-2
+sharing-your-book
+publishing
+pages
+metadata-for-sharing
+blocks
+equations
+theorems-and-proofs
+callout-blocks
+footnotes-and-citations
+footnotes
+citations
+parts
