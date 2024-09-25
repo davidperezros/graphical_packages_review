@@ -1,0 +1,23 @@
+--- 
+title: "Gráficos en R"
+subtitle: "Instituto Nacional de Estadística (INE)"
+author: "David Pérez Ros"
+date: "25/09/2024"
+output: pdf_document
+documentclass: book
+bibliography: book.bib
+biblio-style: apa
+description: Guia sobre los principales paquetes para graficar en R.
+link-citations: yes
+github-repo: "rstudio/bookdown-demo"
+site: bookdown::bookdown_site
+---
+
+# Introducción
+
+A lo largo de este contenido se pretende revisar el estado del arte de los paquetes para graficar en [R](https://cran.r-project.org), categorizándolos según su tipología. En la actualidad, junto a [Python](https://www.python.org/), R es uno de los lenguajes con mayor uso para el análisis de datos, con una infinidad de paquetes creados ad hoc para realizar tareas específicas. Además, cuenta con una comunidad muy sólida que reporta bugs y contribuye a seguir expandiendo el entorno de R. Su versatilidad y su reciente incorporación de formatos como [Bookdown](https://bookdown.org/), [R Markdown](https://rmarkdown.rstudio.com/), y [Quarto](https://quarto.org/) lo hacen idóneo para realizar análisis de datos centrándose únicamente en dicho análisis y no perder tiempo en diseñar el entorno en el que se presentarán.
+
+Este proyecto se ha realizado en [Bookdown](https://bookdown.org/)[^1] con la idea de que sea fácilmente exportable a PDF o leído desde la web, además de poder evolucionar en el tiempo, incluyendo correcciones tipográficas o nuevos apartados. Se expondrán los diferentes tipos de paquetes para graficar en R, clasificándolos según su propósito: visualización exploratoria, visualización de resultados estadísticos, gráficos interactivos, gráficos para informes y publicaciones, entre otros. Esto permitirá una comprensión integral de las herramientas disponibles y su adecuada aplicación en diversos contextos de análisis de datos.
+
+
+[^1]: Ver [@main_book] para más información sobre Bookdown. 
