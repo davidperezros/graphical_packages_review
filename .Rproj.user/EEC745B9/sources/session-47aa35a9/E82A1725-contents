@@ -1,0 +1,3 @@
+#Estos ficheros no se cargarán a .github
+.Rhistory
+.RData
