@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "ISBN": "9781138700109",
+            "URL": "https://bookdown.org/yihui/bookdown/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "1",
+            "id": "main_book",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "publisher": "Chapman & Hall",
+            "title": "Authoring books and technical documents with R markdown",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "book.bib"
+    ]
+}
