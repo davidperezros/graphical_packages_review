@@ -1,0 +1,8 @@
+book_filename: "r_packages_bookdown"
+output_dir: docs
+delete_merged_file: true
+edit: https://github.com/davidperezros/graphical_packages_review/edit/main/%s
+view: https://github.com/davidperezros/graphical_packages_review/blob/main/%s
+language:
+  ui:
+    chapter_name: ""
